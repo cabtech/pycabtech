@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# Everything above here is the Github default
+.pylint
